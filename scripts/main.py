@@ -13,7 +13,7 @@ from quant_func_v1 import emission_quantification
 
 #Input Values
 
-pbase = '/home/javier/Desktop/After_PhD/github_code/' #base path for inputs and outputs
+pbase = '/home/javier/Desktop/After_PhD/github_code/' #base path for inputs and outputs (use own path)
 
 #Scene timestamp and location (it can be obtained from acquisition metadata)
 ts = 20220827060753 #ts:#YYYYMMDDHHMMSS format
